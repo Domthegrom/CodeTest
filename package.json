@@ -13,6 +13,7 @@
     "react-js-pagination": "^3.0.3",
     "react-loading": "^2.0.3",
     "react-scripts": "3.4.1",
+    "react-window": "^1.8.5",
     "why-did-you-update": "^1.0.8"
   },
   "scripts": {
